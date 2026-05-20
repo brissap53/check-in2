@@ -1,2 +1,2 @@
 # check-in2
-Creacion de un check in mediante conraseña personalizada
+Creacion de un check in mediante contraseña personalizada
